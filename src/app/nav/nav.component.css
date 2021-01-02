@@ -3,9 +3,8 @@
 }
 
 .sidenav {
-  width: 220px;
-  /* background: #eaebf0; */
-  background: #f9f9fa;
+  width: 250px;
+  background: #eaebf0;
 }
 
 .sidenav .mat-toolbar {
@@ -26,7 +25,7 @@
 } */
 
 .nav-expansion-panel{
-  background: #fff;
+  background: #eaebf0;
 }
 .panel-title{
   /* color: #fff; */
@@ -39,15 +38,12 @@
   /* text-align: center; */
   font-size: 13px;
 }
-#home-bnt{
-  background: #f9f9fa;
-}
+
 #my-class{
   width: 100%!important;
   min-width: unset!important;
   text-align: left !important;
-  background: #f9f9fa;
-  /* background: #eaebf0; */
+  background: #eaebf0;
   color: #000;
   margin-top: 20px;
   height: 50px;
